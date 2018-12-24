@@ -1,5 +1,6 @@
 const os = require('os');
 
+os;
 os.cpus();
 os.freemem();
 os.networkInterfaces();
